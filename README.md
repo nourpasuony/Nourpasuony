@@ -7,7 +7,6 @@
 <p align="left">
 <a display="aline-block" href="https://linkedin.com/in/nourpasuony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourpasuony/" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/profile.php?id=100004665646480&locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004665646480&locale=ar_ar" height="30" width="40" /></a>
 
 <a href="https://api.whatsapp.com/send?phone=01028892169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://www.whatsapp.com/" height="30" width="40" /></a>
 </p>
