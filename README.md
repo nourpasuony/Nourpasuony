@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i style="color:#000044;">Nour Mohamed Ali</i></h1>
-<h3 align="center">"Senior Software Engineer | Expert JavaScript Developer with Extensive Experience in Building Robust Solutions"</h3>
+<h3 align="center">"Junior FullStack JavaScript Developer | Expert JavaScript Developer with Extensive Experience in Building Robust Solutions"</h3>
 
 <img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1711584000&v=beta&t=C1uzTrHtSeA0JvI5HsDMP9w1DhcrdU6A8iQPu97wACA"  alt="Programmer" width="400" >
 
