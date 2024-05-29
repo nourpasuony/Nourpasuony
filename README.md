@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <i style="color:#000044;">Nour Mohamed Ali</i></h1>
 <h3 align="center">"Junior FullStack JavaScript Developer |  Creating Modern Web Solutions"</h3>
 
-<img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1711584000&v=beta&t=C1uzTrHtSeA0JvI5HsDMP9w1DhcrdU6A8iQPu97wACA](https://dribbble.com/shots/3848914-Programmer-Thomas?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share"  alt="Programmer" width="400" >
+<img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1711584000&v=beta&t=C1uzTrHtSeA0JvI5HsDMP9w1DhcrdU6A8iQPu97wACA](https://dribbble.com/shots/3848914-Programmer-Thomas?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share](https://postimg.cc/qNSvFwkk)"  alt="Programmer" width="400" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
