@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i style="color:#000044;">Nour Mohamed Ali</i></h1>
-<h3 align="center">Software enginer ( Nodejs , Nestjs )</h3>
+<h3 align="center">Software engineer ( Nodejs , Nestjs )</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  alt="Programmer" width="400" >
 
