@@ -1,5 +1,5 @@
-## Hi, I'm Rafnix Guzmán a Python Software Developer 
-![]()
+## Hi, I'm Nour mohamed a Software Developer Nodejs 
+![](images/coverImg.png)
 
 ```javascript
 import { Injectable } from '@nestjs/common';
@@ -13,7 +13,7 @@ export class DeveloperService {
   private readonly cv =
     'Nour mohamed CV: https://drive.google.com/file/d/15223Ou80s5kMCbjva5Gfk3R7Pf2JWj1I/view?usp=sharing';
 
-  private readonly code = {
+  private readonly skills = {
     backend: ['Nodejs', 'Nestjs', 'Expressjs', 'PHP'],
     database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis'],
     devops: ['Docker', 'GitHub Actions', 'Linux'],
@@ -36,7 +36,7 @@ export class DeveloperService {
         position: this.position,
       },
       cv: this.cv,
-      skills: this.code,
+      skills: this.skills,
       architecture: this.architecture,
     };
   }
