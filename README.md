@@ -1,5 +1,5 @@
 ## Hi, I'm Nour mohamed a Software Developer Nodejs 
-![](images/coverImg.png)
+![](images/Cover.png)
 
 ```javascript
 import { Injectable } from '@nestjs/common';
@@ -47,3 +47,8 @@ const me = new DeveloperService();
 console.log(JSON.stringify(me.getPortfolio(), null, 2));
 
 ```
+
+## Get in touch
+
+- LinkedIn: https://www.linkedin.com/in/nourpasuony/
+- CV: https://drive.google.com/file/d/15223Ou80s5kMCbjva5Gfk3R7Pf2JWj1I/view?usp=sharing
